@@ -1,4 +1,4 @@
-# CyberDefenderLabs
+# CyberDefenders Labs
 Lab Write Ups for all labs completed for/from CyberDefenders
 
 # Labs | Skill/Tools used:

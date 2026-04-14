@@ -60,10 +60,11 @@ When you click the option with the attacker's IP in the destination, the bottom 
 They were attempting to steal the passwords. 
 "How dare they!", but also "oh that's neat - how and why did you do that?".
 
-Lab Complete!
+## Lab Complete!
 
 Total Time: ~1 hour and 20 minutes
-Write-Up written in Vim and Obsidian.
+Write-Up (poorly) written in Vim and Obsidian.
+
 Notes: I did click all of the hints except for the last question. I wanted to see if I found the answer correctly (or if I got lucky). I also got stuck. This was reviewed as Easy and I found it to be Medium difficulty. With no Hints, it would have taken me possibly an extra hour. 
 Fun fact: This was my first-ever CyberDefenders lab. Where's my job? (jk - unless you're offering)
 

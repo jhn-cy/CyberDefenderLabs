@@ -10,7 +10,7 @@ Wireshark & Web-browser for IP Lookup
 # Write-Up:
 Opening the .pcap file opens up WireShark to start the Network Forensics.
 ### Question 1: Identifying the geographical origin of the attack facilitates the implementation of geo-blocking measures and the analysis of threat intelligence. From which city did the attack originate?
-![[Q1.png]]
+![Q1.png]
 ![[Q2.5.png]]
 I found the IP addressing making a GET HTTP request. There are only two IPs, so brute-forcing this would be possible. 
 The IP was from Tianjin, China - IP: 117.11.88.124
